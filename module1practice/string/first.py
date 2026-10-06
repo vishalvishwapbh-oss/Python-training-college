@@ -1,0 +1,12 @@
+n="i like python "
+a=n.strip()
+b=n.find("x")
+c=len(n)
+d=n.count("i")
+e=n.replace("python","c++")
+print(n)
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
